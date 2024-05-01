@@ -159,5 +159,5 @@ main(){
                 break;
         }
     }while(opcion!=0);
-    printf("\ncahuchis :3\n");
+    printf("\nchauchis :3\n");
 }
